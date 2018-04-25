@@ -1,0 +1,2 @@
+Buatlah algoritma dalam menghitung biaya parkir dengan rincian biaya parkir 1 jam pertama 4000, lebih dari itu 2000/jam.
+Kasus : parkir selama 8 jam
