@@ -1,0 +1,2 @@
+jawaban_3
+pertama pilih alat untuk membeli barang, disini saya akan memilih smartphone, lalu jika sudah memiliki aplikasi untuk membelinya lebih baik memakai aplikasi yang ada supaya lebih praktis, lalu log in kedalam aplikasi, setelah sudah log in maka kita hanya tinggal memilih barang apa yang kita inginkan, lalu stelah memilih maka isi form akan membeli berapa, lalu pilih pembayaran melalui apa entah itu cash, debit atau kredit, setelah menentukan kita bisa menunggu barang sampai di tangan kita.
